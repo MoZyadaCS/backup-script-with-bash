@@ -1,1 +1,0 @@
-0 2 * * * /home/mostafa/daily_backup.sh
